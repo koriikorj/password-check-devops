@@ -30,7 +30,7 @@ Bitte stelle sicher, dass du folgendes beherrschst oder bereit bist zu lernen:
 
 ```plaintext
 password-check-devops/
-├── password_checker.py          # Passwortprüfung (korrekt ODER mit Fehler)
+├── password_checker.py          # Passwortprüfung
 ├── test_password_checker.py     # Hier schreibst du deine Tests
 ├── README.md                    # Diese Datei
 └── .github/
